@@ -2,6 +2,11 @@
     background-color: #F4DFB6;
 }
 
+#eng_link, #che_link {
+   text-align: right;
+   display: block;
+   
+}
 
 h1 {
     color: black;
